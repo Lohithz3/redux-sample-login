@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/redux-sample-login/static/js/main.66a6e49e.chunk.js",
+    "main.js.map": "/redux-sample-login/static/js/main.66a6e49e.chunk.js.map",
+    "runtime-main.js": "/redux-sample-login/static/js/runtime-main.85ec1b60.js",
+    "runtime-main.js.map": "/redux-sample-login/static/js/runtime-main.85ec1b60.js.map",
+    "static/js/2.084f6bc4.chunk.js": "/redux-sample-login/static/js/2.084f6bc4.chunk.js",
+    "static/js/2.084f6bc4.chunk.js.map": "/redux-sample-login/static/js/2.084f6bc4.chunk.js.map",
+    "index.html": "/redux-sample-login/index.html",
+    "precache-manifest.138bf6b0201d7974def1e19155c1b0f2.js": "/redux-sample-login/precache-manifest.138bf6b0201d7974def1e19155c1b0f2.js",
+    "service-worker.js": "/redux-sample-login/service-worker.js",
+    "static/js/2.084f6bc4.chunk.js.LICENSE.txt": "/redux-sample-login/static/js/2.084f6bc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85ec1b60.js",
+    "static/js/2.084f6bc4.chunk.js",
+    "static/js/main.66a6e49e.chunk.js"
+  ]
+}
